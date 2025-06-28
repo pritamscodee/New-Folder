@@ -38,7 +38,7 @@ animation: navshow 1.6s  linear forwards;
 @keyframes navshow{
     100%{
         visibility: visible;
-      opacity: 1;
+      opacity: 2;
     
     }
     
